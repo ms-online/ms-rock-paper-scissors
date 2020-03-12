@@ -125,7 +125,7 @@ body {
 }
 
 @keyframes modalopen {
-  form {
+  from {
     opacity: 0;
   }
   to {
